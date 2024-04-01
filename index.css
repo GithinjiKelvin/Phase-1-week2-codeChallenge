@@ -1,0 +1,10 @@
+ul li{
+    
+    list-style: none;
+    padding: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 5px;
+}
