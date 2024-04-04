@@ -8,15 +8,6 @@
 ## Description
 Demonstrating the skills to create functions 
 
-## Solution 1
-creating a function that
-Swaps letters from uppercase to lower case and viceversa 
-
-## solution 2
-creating a function that generates numbers within a certain range
-
-
-
 
 ## Installation
 You use git clone to push your code on GitHub
@@ -40,5 +31,5 @@ github.com/GithinjiKelvin
 Email: githinjikelvin59@gmail.com
 
 ### License
-
+MIT License
 Copyright (c) 2024.
